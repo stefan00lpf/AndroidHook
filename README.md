@@ -1,0 +1,2 @@
+# AndroidHook
+利用android_inject和hookZz框架写的一个Android zygote注入andorid程序，进行中
